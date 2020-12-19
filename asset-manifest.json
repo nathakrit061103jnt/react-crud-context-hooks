@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-crud-context-hooks/static/css/main.2992b5ce.chunk.css",
-    "main.js": "/react-crud-context-hooks/static/js/main.39404bb7.chunk.js",
-    "main.js.map": "/react-crud-context-hooks/static/js/main.39404bb7.chunk.js.map",
-    "runtime-main.js": "/react-crud-context-hooks/static/js/runtime-main.50373c28.js",
-    "runtime-main.js.map": "/react-crud-context-hooks/static/js/runtime-main.50373c28.js.map",
-    "static/js/2.b721747d.chunk.js": "/react-crud-context-hooks/static/js/2.b721747d.chunk.js",
-    "static/js/2.b721747d.chunk.js.map": "/react-crud-context-hooks/static/js/2.b721747d.chunk.js.map",
+    "main.css": "/react-crud-context-hooks/static/css/main.f4434642.chunk.css",
+    "main.js": "/react-crud-context-hooks/static/js/main.deacb642.chunk.js",
+    "main.js.map": "/react-crud-context-hooks/static/js/main.deacb642.chunk.js.map",
+    "runtime-main.js": "/react-crud-context-hooks/static/js/runtime-main.13a54034.js",
+    "runtime-main.js.map": "/react-crud-context-hooks/static/js/runtime-main.13a54034.js.map",
+    "static/js/2.83cfcb70.chunk.js": "/react-crud-context-hooks/static/js/2.83cfcb70.chunk.js",
+    "static/js/2.83cfcb70.chunk.js.map": "/react-crud-context-hooks/static/js/2.83cfcb70.chunk.js.map",
     "index.html": "/react-crud-context-hooks/index.html",
-    "precache-manifest.061c5a6f712be839876cabddf0c7fe54.js": "/react-crud-context-hooks/precache-manifest.061c5a6f712be839876cabddf0c7fe54.js",
+    "precache-manifest.4d471366e49c507928eadbd4628c1702.js": "/react-crud-context-hooks/precache-manifest.4d471366e49c507928eadbd4628c1702.js",
     "service-worker.js": "/react-crud-context-hooks/service-worker.js",
-    "static/css/main.2992b5ce.chunk.css.map": "/react-crud-context-hooks/static/css/main.2992b5ce.chunk.css.map",
-    "static/js/2.b721747d.chunk.js.LICENSE.txt": "/react-crud-context-hooks/static/js/2.b721747d.chunk.js.LICENSE.txt"
+    "static/css/main.f4434642.chunk.css.map": "/react-crud-context-hooks/static/css/main.f4434642.chunk.css.map",
+    "static/js/2.83cfcb70.chunk.js.LICENSE.txt": "/react-crud-context-hooks/static/js/2.83cfcb70.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.50373c28.js",
-    "static/js/2.b721747d.chunk.js",
-    "static/css/main.2992b5ce.chunk.css",
-    "static/js/main.39404bb7.chunk.js"
+    "static/js/runtime-main.13a54034.js",
+    "static/js/2.83cfcb70.chunk.js",
+    "static/css/main.f4434642.chunk.css",
+    "static/js/main.deacb642.chunk.js"
   ]
 }
